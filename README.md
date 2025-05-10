@@ -23,6 +23,8 @@
 
 ---
 
+![Extension Icon](extension/image.webp)
+
 ##  Architecture
 
 ```text
